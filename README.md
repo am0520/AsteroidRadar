@@ -1,6 +1,5 @@
 # AsteroidRadar
-Displays a list of asteroids and if they are potentially hazardous, providing more details when one is tapped.
-Part of the Advanced Android Kotlin Development nanodegree from Udacity.
+A mobile application for showing asteroid data from NASA API and whether they are potentially hazardous or not. The asteroids are displayed in a list and can be accessed to view more specific details. Part of the Advanced Android Kotlin Development nanodegree from Udacity.
 
 |Home|Detail|
 |:---:|:---:|
