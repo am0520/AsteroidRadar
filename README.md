@@ -9,7 +9,7 @@ _API: https://api.nasa.gov/_
 <br>
 _You can add your API key in [util/Constants](app/src/main/java/com/example/asteroidradar/util/Constants.kt)_
 
-Topics:
+Built using:
 - Retrofit
 - WorkManager
 - MVVM
